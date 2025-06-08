@@ -10,4 +10,4 @@ This repository contains all my solutions, projects, and assignments completed d
 TO DO
 
 ## Tasks
-- [Guess Number Task](PYTHON-8. Data Science Tools/guess-number-task/guess-number-task.ipynb)
+- [Guess Number Task](PYTHON-8.%20Data%20Science%20Tools/guess-number-task/guess-number-task.ipynb)
