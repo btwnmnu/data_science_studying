@@ -1,8 +1,13 @@
-# Проект 0. Угадай число
+# Data Science Learning Repository
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток. 
-По условиям задания - максимум 19 попыток.
+This repository contains all my solutions, projects, and assignments completed during my Data Science course. It serves as a personal archive and portfolio showcasing my growth and proficiency in various Data Science concepts and tools.
 
-### Результаты
-Готовое решение находится внутри baseline.ipynb внутри "Подход 3: Ваше решение"
+# 📚 Table of Contents  
+- [Projects](#projects)  
+- [Tasks](#tasks)
+
+## Projects
+TO DO
+
+## Tasks
+- [Guess Number Task](guess-number-task/guess-number-task.ipynb)
